@@ -1,0 +1,39 @@
+# Virtual environment
+env/
+.env
+venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.log
+*.pot
+*.DS_Store
+
+# Python/Django specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3
+db.sqlite3
+media/
+
+# Virtual environment
+env/
+.env
+venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Miscellaneous
+*.log
+*.pot
+*.DS_Store
